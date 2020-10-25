@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Favourite App Opener</string>
+    <string name="rightmove">hu.unideb.inf.syedparsa.mobileDonumberdaproject.RIGHT</string>
+    <string name="leftmove">hu.unideb.inf.syedparsa.mobileDonumberdaproject.LEFT</string>
+    <string name="app_not_found">App not found Or System app</string>
+    <string name="MyPref">MyPrefs</string>
+    <string name="RightKey">RightKEY.right.right.right</string>
+    <string name="LeftKey">LeftKEY.left.left.left</string>
+
+    <string name="RightKeyApp">RightKEY.right.right.right.appname</string>
+    <string name="LeftKeyApp">LeftKEY.left.left.left.appName</string>
+
+    <string name="shake_nyour_nphone">Shake\nYour\nPhone</string>
+    <string name="choose_your_two_favourite_apps_and_open_those_direclty_by_shaking_your_phone">Choose Your Two Favourite Apps and Open Those Direclty by shaking your phone</string>
+    <string name="left_app">Left App</string>
+    <string name="right_app">RIght App</string>
+</resources>
